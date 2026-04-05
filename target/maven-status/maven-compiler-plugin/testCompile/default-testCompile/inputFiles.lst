@@ -1,1 +1,2 @@
-/Users/minamitoshimitsu/VscodeWorkspace/backend-spring-common/src/test/java/com/example/demo/DemoApplicationTests.java
+/Users/minamitoshimitsu/Public/VscodeWorkspace/backend-spring-common/src/test/java/com/example/backend/common/auth/cognito/AuthenticatedUserInfoMapperTest.java
+/Users/minamitoshimitsu/Public/VscodeWorkspace/backend-spring-common/src/test/java/com/example/backend/common/auth/cognito/CognitoLoginPathResolverTest.java

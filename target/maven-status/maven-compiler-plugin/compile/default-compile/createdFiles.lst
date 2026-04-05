@@ -1,1 +1,4 @@
-com/example/demo/DemoApplication.class
+com/example/backend/common/auth/cognito/CognitoAuthFeatureProperties.class
+com/example/backend/common/auth/cognito/CognitoLoginPathResolver.class
+com/example/backend/common/auth/cognito/AuthenticatedUserInfoMapper.class
+com/example/backend/common/auth/cognito/CognitoAuthFeatureConfiguration.class

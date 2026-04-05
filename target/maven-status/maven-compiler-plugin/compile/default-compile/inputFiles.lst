@@ -1,1 +1,4 @@
-/Users/minamitoshimitsu/VscodeWorkspace/backend-spring-common/src/main/java/com/example/demo/DemoApplication.java
+/Users/minamitoshimitsu/Public/VscodeWorkspace/backend-spring-common/src/main/java/com/example/backend/common/auth/cognito/AuthenticatedUserInfoMapper.java
+/Users/minamitoshimitsu/Public/VscodeWorkspace/backend-spring-common/src/main/java/com/example/backend/common/auth/cognito/CognitoAuthFeatureConfiguration.java
+/Users/minamitoshimitsu/Public/VscodeWorkspace/backend-spring-common/src/main/java/com/example/backend/common/auth/cognito/CognitoAuthFeatureProperties.java
+/Users/minamitoshimitsu/Public/VscodeWorkspace/backend-spring-common/src/main/java/com/example/backend/common/auth/cognito/CognitoLoginPathResolver.java
