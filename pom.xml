@@ -31,6 +31,19 @@
             <artifactId>spring-boot-starter-oauth2-client</artifactId>
         </dependency>
 
+        <!--
+            OpenAPI アノテーション用 (optional=true)
+            - このライブラリのモデルに @Schema/@Parameter 等を付与するために追加
+            - optional=true により、利用側 (backend-spring) には推移的に含まれない
+            - 利用側は springdoc-openapi-starter-webmvc-ui を独自に宣言し、Swagger UI を提供する
+        -->
+        <dependency>
+            <groupId>org.springdoc</groupId>
+            <artifactId>springdoc-openapi-starter-common</artifactId>
+            <version>2.5.0</version>
+            <optional>true</optional>
+        </dependency>
+
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-test</artifactId>
